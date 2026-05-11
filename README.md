@@ -16,6 +16,10 @@ I'm a CS graduate from Texas A&M (May 2025) currently working as a Software Engi
 
 ## 🚀 Featured Projects
 
+### [AQI India Intelligence](https://github.com/ishaan2947/India_AQI) — Geospatial ML Dashboard for Air-Quality Forecasting
+Full-stack platform that ingests real-time AQI for 30 Indian cities, visualises them on an interactive Leaflet map with category-coloured markers, and forecasts the next 24 hours with a Random Forest (recursive multi-step, per-tree variance as a confidence band). APScheduler-driven hourly fetch + nightly retrain; end-to-end typed via Pydantic ↔ TypeScript.
+`FastAPI` `scikit-learn` `React` `TypeScript` `Leaflet` `Recharts` `Docker`
+
 ### [QuantumIQ](https://github.com/ishaan2947/QuantumIQ) — Agentic Quantum Computing Learning Platform
 An interactive quantum circuit simulator with a drag-and-drop interface, real-time 3D Bloch sphere visualization (Three.js), and a GPT-4o AI tutor that tracks your progress and generates adaptive challenges.  
 `FastAPI` `Qiskit` `React` `Three.js` `Docker` `JWT`
