@@ -1,7 +1,7 @@
 
 # Hi, I'm Ishaan Nigam 👋
 
-I'm a CS graduate from Texas A&M (May 2025) currently working as a Software Engineering at PwC. I build full-stack applications, data pipelines, and AI-powered tools — with a focus on production-grade, real-world systems.
+I'm a CS graduate from Texas A&M (May 2025) currently working as a Software Engineer at PwC. I build full-stack applications, data pipelines, and AI-powered tools — with a focus on production-grade, real-world systems.
 
 ---
 
@@ -34,8 +34,11 @@ Full-stack app that converts youth basketball stats into GPT-4o generated coachi
 
 ## 💼 Experience
 
-**Software Engineering Trainee** — BNSF Railway *(Sep 2025 – Present)*  
-Building production ETL pipelines, a FastAPI + React safety platform, and CI/CD data quality validation across Teradata, DB2, and SQL Server.
+**Software Engineer, Sightline AI** — PwC *(Jul 2026 – Present)*  
+Building services in a production multi-agent orchestration platform (LangGraph planner–executor with human-in-the-loop review) routing across 25 specialist agents for Fortune 500 tax workflows, with agent-to-agent protocol integrations and Azure DevOps CI/CD across 9 containerized services.
+
+**Software Engineering Trainee** — BNSF Railway *(Sep 2025 – Jun 2026)*  
+Built an enterprise ETL platform orchestrating 30+ operations metrics across Teradata and DB2 via Airflow, a FastAPI + React safety-critical platform serving 10 railroad divisions, and CI/CD data-quality validation.
 
 **Data Engineer Intern** — Celanese *(May – Aug 2024)*  
 Built a global lab scheduling app (Django) and improved a predictive ML model R² by 18%.
