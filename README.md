@@ -22,6 +22,7 @@ Full-stack platform that ingests real-time AQI for 30 Indian cities, visualises 
 `FastAPI` `scikit-learn` `React` `TypeScript` `Leaflet` `Recharts` `PWA` `Responsive` `Docker`
 
 ### [QuantumIQ](https://github.com/ishaan2947/QuantumIQ) — Agentic Quantum Computing Learning Platform
+**🌐 [Live demo](https://quantumiq-lab.vercel.app)** · **[Repo](https://github.com/ishaan2947/QuantumIQ)**
 An interactive quantum circuit simulator with a drag-and-drop interface, real-time 3D Bloch sphere visualization (Three.js), and a GPT-4o AI tutor that tracks your progress and generates adaptive challenges.  
 `FastAPI` `Qiskit` `React` `Three.js` `Docker` `JWT`
 
