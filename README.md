@@ -1,7 +1,7 @@
 
 # Hi, I'm Ishaan Nigam 👋
 
-I'm a CS graduate from Texas A&M (May 2025) currently working as a Software Engineering Trainee at BNSF Railway. I build full-stack applications, data pipelines, and AI-powered tools — with a focus on production-grade, real-world systems.
+I'm a CS graduate from Texas A&M (May 2025) currently working as a Software Engineering at PwC. I build full-stack applications, data pipelines, and AI-powered tools — with a focus on production-grade, real-world systems.
 
 ---
 
