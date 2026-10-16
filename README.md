@@ -48,7 +48,7 @@ Built a global lab scheduling app (Django) and improved a predictive ML model R�
 ---
 
 ## 🏆 Achievements
-- Microsoft Azure AI Fundamentals Certified (2025)
+- Microsoft Azure AI Fundamentals Certified
 - Dean's List — Texas A&M, multiple semesters
 - Eagle Scout
 
