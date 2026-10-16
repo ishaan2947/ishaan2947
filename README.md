@@ -7,14 +7,19 @@ I'm a CS graduate from Texas A&M (May 2025) currently working as a Software Engi
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · Java · JavaScript · TypeScript · C++ · SQL
-**Web & Frameworks:** React · tRPC · Micro-frontends · Next.js 14 · Node.js · FastAPI · Django · Flask
-**Cloud:** AWS (ECS · Lambda · Step Functions · DynamoDB · API Gateway) · Azure
-**Data:** PostgreSQL · Teradata · DB2 · Redis · Apache Airflow · ETL Pipelines · Pandas  
-**DevOps & Tools:** Git · Docker · Jenkins · OpenShift · Azure DevOps · Bicep · CI/CD  
-**AI & Agents:** LangGraph · Multi-Agent Orchestration · A2A Protocol · LLM Function Calling · Scikit-Learn
+**Languages:** Python · Java · JavaScript · TypeScript · C++ · SQL <br>
+**Web & Frameworks:** React · tRPC · Micro-frontends · Next.js 14 · Node.js · FastAPI · Django · Flask <br>
+**Cloud:** AWS (ECS · Lambda · Step Functions · DynamoDB · API Gateway) · Azure <br>
+**Data:** PostgreSQL · Teradata · DB2 · Redis · Apache Airflow · ETL Pipelines · Pandas <br>
+**DevOps & Tools:** Git · Docker · Jenkins · OpenShift · Azure DevOps · Bicep · CI/CD <br>
+**AI & Agents:** LangGraph · Multi-Agent Orchestration · A2A Protocol · LLM Function Calling · scikit-learn
 
 ---
+
+## 🚀 Featured Projects
+
+---
+
 
 ## 🚀 Featured Projects
 
