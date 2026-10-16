@@ -1,16 +1,18 @@
 
 # Hi, I'm Ishaan Nigam 👋
 
-I'm a CS graduate from Texas A&M (May 2025) currently working as a Software Engineer at PwC. I build full-stack applications, data pipelines, and AI-powered tools — with a focus on production-grade, real-world systems.
+I'm a CS graduate from Texas A&M (May 2025) currently working as a Software Engineer at Amazon. I build full-stack applications, data pipelines, and AI-powered tools — with a focus on production-grade, real-world systems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python · C++ · Java · JavaScript · TypeScript · SQL  
-**Web & Frameworks:** React · Next.js 14 · Node.js · Django · FastAPI · Flask · .NET 8  
-**Data & Cloud:** PostgreSQL · Teradata · DB2 · MongoDB · Redis · Pandas · AWS · Azure  
-**DevOps & Tools:** Docker · OpenShift · Jenkins · CI/CD · Playwright · Git  
+**Languages:** Python · Java · JavaScript · TypeScript · C++ · SQL
+**Web & Frameworks:** React · tRPC · Micro-frontends · Next.js 14 · Node.js · FastAPI · Django · Flask
+**Cloud:** AWS (ECS · Lambda · Step Functions · DynamoDB · API Gateway) · Azure
+**Data:** PostgreSQL · Teradata · DB2 · Redis · Apache Airflow · ETL Pipelines · Pandas  
+**DevOps & Tools:** Git · Docker · Jenkins · OpenShift · Azure DevOps · Bicep · CI/CD  
+**AI & Agents:** LangGraph · Multi-Agent Orchestration · A2A Protocol · LLM Function Calling · Scikit-Learn
 
 ---
 
